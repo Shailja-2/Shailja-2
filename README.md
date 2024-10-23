@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shailja Shekhar 
-- 👀 I’m interested in Data Analytics. 
+- 👀 I’m interested in Data Analytics and Web Development. 
 - 🌱 I’m currently learning Python. 
 - 📫 Contact information -
      @shekharshailja9@gmail.com
